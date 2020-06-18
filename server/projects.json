@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Spring Boot",
+        "id": "icon-logo-1",
+        "description": "Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible."
+    },
+    {
+        "title": "Spring Framework",
+        "id": "icon-logo-2",
+        "description": "Provides core support for dependency injection, transaction management, web apps, data access, messaging and more."
+    },
+    {
+        "title": "Spring cloud data flow",
+        "id": "icon-logo-3",
+        "description": "An orchestration service for composable data microservice applications on modern runtimes."
+    },
+    {
+        "title": "Spring cloud",
+        "id": "icon-logo-4",
+        "description": "Provides a set of tools for common patterns in distributed systems. Useful for building and deploying microservices."
+    },
+    {
+        "title": "Spring data",
+        "id": "icon-logo-5",
+        "description": "Provides a set of tools for common patterns in distributed systems. Useful for building and deploying microservices."
+    },
+    {
+        "title": "Spring integration",
+        "id": "icon-logo-6",
+        "description": "Supports the well-known <em>Enterprise Integration Patterns</em> via lightweight messaging and declarative adapters."
+    }
+]
